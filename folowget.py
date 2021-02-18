@@ -103,4 +103,4 @@ def messagefollowers(name,accname,password,messages):
         message(names,messages)
         print(names,messages)
     save()
-messagefollowers("shreyarao.music","vineethrao50@gmail.com","1Uzumali*","hello")
+messagefollowers("shreyarao.music","vineethrao50@gmail.com","####","hello")
